@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ruleshake.com/"><img src="./imgs/ruleshake-hero.png" alt="ruleshake"></a>
+  <a href="https://ruleshake.com/"><img src="https://raw.githubusercontent.com/ruleshake/ruleshake-start/main/imgs/ruleshake-hero.png" alt="ruleshake"></a>
 </p>
 
 <p align=center>
@@ -18,5 +18,5 @@ configuring variable collections, Referential the dataset management service and
 </p>
 
 <p align="center">
-  <a href="https://ruleshake.com/blog/architecture"><img src="./imgs/ruleshake-architecture.png" alt="ruleshake-architecture"></a>
+  <a href="https://ruleshake.com/blog/architecture"><img src="https://raw.githubusercontent.com/ruleshake/ruleshake-start/main/imgs/ruleshake-architecture.png" alt="ruleshake-architecture"></a>
 </p>
